@@ -2,6 +2,8 @@
 
 > Run deno in distroless container
 
+The result image size is `106MB`.
+
 ```console
 $ docker build . -t deno
 Sending build context to Docker daemon  40.45kB
